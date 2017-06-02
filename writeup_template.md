@@ -11,10 +11,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images_output/solidwhiteright.jpg
+[image1]: ./test_images_output/solidwhiteRight.jpg
 [image2]: ./test_images_output/solidWhiteCurve.jpg
 [image3]: ./test_images_output/solidYellowCurve.jpg
-[image4]: ./test_images_output/solidyellowcurve2.jpg
+[image4]: ./test_images_output/solidyellowCurve2.jpg
 [image5]: ./test_images_output/solidYellowLeft.jpg
 [image6]: ./test_images_output/whiteCarLaneSwitch.jpg
 
